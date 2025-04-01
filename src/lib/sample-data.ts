@@ -108,3 +108,5 @@ const invoiceLines = [
         total: 25,
     },
 ];
+
+export { customers, invoices, invoiceLines };
